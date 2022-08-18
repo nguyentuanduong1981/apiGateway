@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.meta365.cloudGateway.CloudGatewayApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 51.122 s - in com.meta365.cloudGateway.CloudGatewayApplicationTests
