@@ -1,0 +1,3 @@
+com/meta365/cloudGateway/CloudGatewayApplication.class
+com/meta365/cloudGateway/SpringCloudGatewayRouting.class
+com/meta365/cloudGateway/FallbackMethodController.class
